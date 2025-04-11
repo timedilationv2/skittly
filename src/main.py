@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from jd_generator import generate_response
+from .jd_generator import generate_response
 
 app = FastAPI(title="Skittly API", version="0.1")
 
@@ -11,3 +11,7 @@ class JobDescription(BaseModel):
 async def create_response(jd: JobDescription):
     response = generate_response(jd.job_description)
     return {"response": response}
+
+@app.get("/")
+async def root():
+    return {"message": "Skittly API is live!"}
