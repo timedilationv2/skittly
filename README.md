@@ -1,34 +1,66 @@
+<!-- PROJECT LOGO -->
+<br />
 <div align="center">
+  <a href="https://github.com/timedilationv2/skittly">
+    <img src="https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/150/external-chatbot-customer-services-smashingstocks-mixed-smashing-stocks.png" alt="Logo" width="80" height="80">
+  </a>
 
-# **Skittly**
+<h3 align="center">Skittly</h3>
 
-**Generate Tailored Job Application Responses with AI**
-
+  <p align="center">
+    Generate tailored, personalized job application responses with AI.
+    <br />
+    <a href="https://github.com/timedilationv2/skittly"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/timedilationv2/skittly">View Demo</a>
+    ·
+    <a href="https://github.com/timedilationv2/skittly/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/timedilationv2/skittly/issues">Request Feature</a>
+  </p>
 </div>
 
 ---
 
-## *Overview**
+<!-- ABOUT THE PROJECT -->
 
-Skittly is an intelligent assistant built with **OpenAI** and **FastAPI**, designed to simplify and streamline your job application process by automatically generating tailored, compelling responses directly from job descriptions (JDs).
+## 📝 About The Project
+
+Skittly simplifies and streamlines job applications by automatically generating personalized, compelling responses from job descriptions using OpenAI's advanced generative AI models.
+
+Here's why you'll love Skittly:
+
+- ✅ **Saves Time:** Automatically writes personalized responses.
+- ✅ **User-Friendly:** Minimalist CLI and API integration.
+- ✅ **Reliable:** Built using FastAPI, Python, and robust testing.
+
+Skittly transforms your job application process from tedious to effortless.
 
 ---
 
-## **✨ Key Features**
+## 🛠 Built With
 
-- 📝 **Personalized Responses:** Automatic, tailored responses optimized for each unique job description.
-- 🚀 **FastAPI Powered:** Quick, scalable, and easy-to-use REST API endpoints.
-- 🤖 **Generative AI:** Leverages OpenAI's GPT models for precise and natural-sounding text generation.
-- ✅ **Easy-to-Use CLI:** Straightforward command-line interface for smooth interactions.
+- [![OpenAI][OpenAI]][OpenAI-url]
+- [![FastAPI][FastAPI]][FastAPI-url]
+- [![Python][Python]][Python-url]
+- [![Uvicorn][Uvicorn]][Uvicorn-url]
 
 ---
 
-## 🔵 **🚧 Quick Setup Guide**
+<!-- GETTING STARTED -->
 
-Follow these clear steps to run Skittly locally:
+## 🚀 Getting Started
 
-### 1️⃣ **Clone the Repository**
+Follow these clear steps to set up Skittly locally.
 
-```bash
-git clone https://github.com/timedilationv2/skittly.git
-cd skittly
+### 📋 Prerequisites
+
+- Python 3.8 or higher
+- OpenAI API key ([Get yours here](https://platform.openai.com/api-keys))
+
+### 🛠 Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/timedilationv2/skittly.git
