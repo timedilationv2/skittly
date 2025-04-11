@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟦 **Skittly**
+# **Skittly**
 
 **Generate Tailored Job Application Responses with AI**
 
@@ -8,13 +8,13 @@
 
 ---
 
-## 🔵 **Overview**
+## *Overview**
 
 Skittly is an intelligent assistant built with **OpenAI** and **FastAPI**, designed to simplify and streamline your job application process by automatically generating tailored, compelling responses directly from job descriptions (JDs).
 
 ---
 
-## 🔵 **✨ Key Features**
+## **✨ Key Features**
 
 - 📝 **Personalized Responses:** Automatic, tailored responses optimized for each unique job description.
 - 🚀 **FastAPI Powered:** Quick, scalable, and easy-to-use REST API endpoints.
