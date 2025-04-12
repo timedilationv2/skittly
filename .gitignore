@@ -4,3 +4,7 @@ __pycache__/
 .env
 data/
 outputs/
+node_modules/
+frontend/node_modules/
+hub/node_modules/
+ui/node_modules/
