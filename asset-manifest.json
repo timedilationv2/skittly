@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/skittly/static/css/main.81a29d5f.css",
-    "main.js": "/skittly/static/js/main.996b6731.js",
+    "main.css": "/skittly/static/css/main.5bc160bd.css",
+    "main.js": "/skittly/static/js/main.680f0784.js",
     "index.html": "/skittly/index.html",
-    "main.81a29d5f.css.map": "/skittly/static/css/main.81a29d5f.css.map",
-    "main.996b6731.js.map": "/skittly/static/js/main.996b6731.js.map"
+    "main.5bc160bd.css.map": "/skittly/static/css/main.5bc160bd.css.map",
+    "main.680f0784.js.map": "/skittly/static/js/main.680f0784.js.map"
   },
   "entrypoints": [
-    "static/css/main.81a29d5f.css",
-    "static/js/main.996b6731.js"
+    "static/css/main.5bc160bd.css",
+    "static/js/main.680f0784.js"
   ]
 }
